@@ -1,2 +1,2 @@
-# candlekeep
+# CandleKeep
 Personal Library application
